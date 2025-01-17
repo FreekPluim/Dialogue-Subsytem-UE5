@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-DialogueSubsystemUE5.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Intermediate\Build\Win64\x64\Tweeduuster_UEEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Plugins\DialogueSubsystemUE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSubsystemUE5\Module.DialogueSubsystemUE5.cpp.obj"
+"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Plugins\DialogueSubsystemUE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSubsystemUE5\Default.rc2.res"
+/OUT:"C:\Users\Student\Desktop\Tweeduuster\Tweeduuster_UE\Plugins\DialogueSubsystemUE5\Intermediate\Build\Win64\x64\UnrealEditor\Development\DialogueSubsystemUE5\UnrealEditor-DialogueSubsystemUE5.lib"

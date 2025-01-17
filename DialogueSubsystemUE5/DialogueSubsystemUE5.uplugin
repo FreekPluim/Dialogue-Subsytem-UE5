@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DialogueSubsystemUE5",
+	"Description": "",
+	"Category": "Other",
+	"CreatedBy": "Freek P",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DialogueSubsystemUE5",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

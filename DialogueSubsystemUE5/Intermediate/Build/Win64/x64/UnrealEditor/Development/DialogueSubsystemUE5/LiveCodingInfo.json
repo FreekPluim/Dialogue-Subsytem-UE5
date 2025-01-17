@@ -1,0 +1,8 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.DialogueSubsystemUE5.cpp.obj": [
+			"DialogueSubsystemUE5.cpp.obj"
+		]
+	}
+}

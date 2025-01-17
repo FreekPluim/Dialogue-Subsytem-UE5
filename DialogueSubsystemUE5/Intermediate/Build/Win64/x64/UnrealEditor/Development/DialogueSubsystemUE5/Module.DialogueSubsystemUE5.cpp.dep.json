@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\student\\desktop\\tweeduuster\\tweeduuster_ue\\plugins\\dialoguesubsystemue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialoguesubsystemue5\\module.dialoguesubsystemue5.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\student\\desktop\\tweeduuster\\tweeduuster_ue\\intermediate\\build\\win64\\x64\\tweeduuster_ueeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\student\\desktop\\tweeduuster\\tweeduuster_ue\\plugins\\dialoguesubsystemue5\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\dialoguesubsystemue5\\definitions.dialoguesubsystemue5.h",
+            "c:\\users\\student\\desktop\\tweeduuster\\tweeduuster_ue\\plugins\\dialoguesubsystemue5\\source\\dialoguesubsystemue5\\private\\dialoguesubsystemue5.cpp",
+            "c:\\users\\student\\desktop\\tweeduuster\\tweeduuster_ue\\plugins\\dialoguesubsystemue5\\source\\dialoguesubsystemue5\\public\\dialoguesubsystemue5.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
